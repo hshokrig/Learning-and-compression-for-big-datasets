@@ -1,0 +1,25 @@
+You can find each of the datasets in the following links:
+
+Pyrim:
+https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/regression.html
+
+Balloon:
+http://lib.stat.cmu.edu/datasets/balloon
+
+Bodyfat:
+http://lib.stat.cmu.edu/datasets/bodyfat
+
+Housing:
+https://archive.ics.uci.edu/ml/datasets/housing
+
+Strike:
+http://lib.stat.cmu.edu/datasets/strikes
+
+Space_ga:
+http://lib.stat.cmu.edu/datasets/space_ga
+
+Abalone:
+https://archive.ics.uci.edu/ml/datasets/abalone
+
+Parkinsons Telemonitoring:
+http://archive.ics.uci.edu/ml/datasets/Parkinsons+Telemonitoring

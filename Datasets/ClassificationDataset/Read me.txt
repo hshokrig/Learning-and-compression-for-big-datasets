@@ -1,0 +1,49 @@
+You can find each of the datasets in the following links:
+
+Iris:
+https://archive.ics.uci.edu/ml/datasets/Iris
+
+Wine:
+https://archive.ics.uci.edu/ml/datasets/Wine
+
+Glass:
+https://archive.ics.uci.edu/ml/datasets/Glass+Identification
+
+Heart Disease:
+https://archive.ics.uci.edu/ml/datasets/Heart+Disease
+
+Ecoli:
+https://archive.ics.uci.edu/ml/datasets/Ecoli
+
+Breast Cancer Wisconsin:
+https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
+
+Vowel:
+https://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+(Vowel+Recognition+-+Deterding+Data)
+
+Extended YaleB:
+https://www.umiacs.umd.edu/~zhuolin/projectlcksvd.html
+
+AR:
+https://www.umiacs.umd.edu/~zhuolin/projectlcksvd.html
+
+Satimage:
+https://archive.ics.uci.edu/ml/machine-learning-databases/statlog/satimage/
+
+Scene15:
+https://www.umiacs.umd.edu/~zhuolin/projectlcksvd.html
+
+Caltech101:
+https://www.umiacs.umd.edu/~zhuolin/projectlcksvd.html
+
+Letter:
+https://archive.ics.uci.edu/ml/datasets/letter+recognition
+
+NORB:
+http://www.cs.nyu.edu/~ylclab/data/norb-v1.0/
+
+Shuttle:
+https://archive.ics.uci.edu/ml/datasets/Statlog+%28Shuttle%29
+
+MNIST:
+http://yann.lecun.com/exdb/mnist/
